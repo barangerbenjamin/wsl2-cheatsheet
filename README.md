@@ -76,7 +76,7 @@ sudo chown your-session-here:your-session-here /usr/bin/chromedriver
 sudo chmod +x /usr/bin/chromedriver
 ```
 ⚠️ Replace **your-session-here** by the result of the command ```whoami```.
-For me the result is ```barangerbenjamin:barangerbenjamin```. ⚠️
+My result is ```barangerbenjamin:barangerbenjamin```. ⚠️
 
 You can now use testing in Rails. You need to open a second tab and run:
 ```bash
